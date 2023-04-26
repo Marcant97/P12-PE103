@@ -1,7 +1,6 @@
 {
   "entryPoints": [
     "./src/ejercicio/*",
-    "./src/modificacion/*",
   ],
   "out": "./docs"
 }
